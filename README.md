@@ -1,5 +1,6 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+### Name: Nivetha A
+### Register No: 212222230101
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
